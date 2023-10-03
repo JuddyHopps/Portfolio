@@ -35,60 +35,61 @@ export const logos = {
 
 // Enter your Personal Details here
 export const personalDetails = {
-  name: "Pavan MG",
-  tagline: "I build things for web",
+  name: "Jenode Nakamoto",
+  tagline: "A creative adult is a child who survived.",
   img: profile,
-  about: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.`,
+  about: `Professional Software Engineer who is capable of both Front-end and Back-end development. He is not only proficient in Web development but also best at creating high quality Mobile Applications.
+  His most strength is his unlimited creativity.`,
 };
 
 // Enter your Social Media URLs here
 export const socialMediaUrl = {
-  linkdein: "https://www.linkedin.com/",
-  github: "https://www.github.com/",
-  twitter: "https://twitter.com/",
-  instagram: "https://www.instagram.com/",
+  linkdein: "https://www.linkedin.com/JuddyHopps",
+  github: "https://www.github.com/JuddyHopps",
+  twitter: "https://twitter.com/JuddyHopps",
+  instagram: "https://www.instagram.com/JuddyHopps",
 };
 
 // Enter your Work Experience here
 export const workDetails = [
   {
     Position: "Frontend Web Developer",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
-    Type: "Full Time",
-    Duration: "Sep 2021 - Dec 2021",
+    Company: `Stuzo`,
+    Location: "Kiev Ukraine",
+    Type: "Full Remote",
+    Duration: "Sep 2021 - May 2023",
   },
   {
-    Position: "Internship",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
-    Type: "Internship",
-    Duration: "Sep 2021 - Dec 2021",
+    Position: "Smart Contract developer",
+    Company: `CBE China Blockchain Expert 中国区块链专家`,
+    Location: "Full Remote",
+    Type: "Full Remote",
+    Duration: "Jan 2018 - Sep 2021",
   },
   {
-    Position: "Internship",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
-    Type: "Internship",
-    Duration: "Sep 2021 - Dec 2021",
+    Position: "Freelancer",
+    Company: `Remote`,
+    Location: "Full Remote",
+    Type: "Full Remote",
+    Duration: "Sep 2017 - Jan 2018",
   },
 ];
 
 // Enter your Education Details here
 export const eduDetails = [
   {
-    Position: "Frontend Development",
-    Company: "Udemy, YouTube, Google, Medium",
+    Position: "GPA 3.90/4.0",
+    Company: "Tokyo Online University",
     Location: "Online",
     Type: "Full Time",
-    Duration: "Jan 2022 - Present",
+    Duration: "Mar 2012 - Jan 2014",
   },
   {
-    Position: "Bachelor in Electronics & Communication",
-    Company: `Your College Name here`,
-    Location: "Bengaluru",
+    Position: "Bachelor in Computer Science",
+    Company: `Online`,
+    Location: "Bathurst, Australia",
     Type: "Full Time",
-    Duration: "Aug 2020 - Present",
+    Duration: "Mar 2014 - Jan 2017",
   },
 ];
 
@@ -119,7 +120,7 @@ export const projectDetails = [
 project lorem ipsum generator for dummy content`,
     techstack: "HTML/CSS, JavaScript",
     previewLink: "https://google.com",
-    githubLink: "https://github.com",
+    githubLink: "https://github.com/JuddyHopps",
   },
   {
     title: "Project title 2",
@@ -128,7 +129,7 @@ project lorem ipsum generator for dummy content`,
 project lorem ipsum generator for dummy content`,
     techstack: "HTML/CSS, JavaScript",
     previewLink: "https://google.com",
-    githubLink: "https://github.com",
+    githubLink: "https://github.com/JuddyHopps",
   },
   {
     title: "Project title 3",
@@ -137,7 +138,7 @@ project lorem ipsum generator for dummy content`,
 project lorem ipsum generator for dummy content`,
     techstack: "HTML/CSS, JavaScript",
     previewLink: "https://google.com",
-    githubLink: "https://github.com",
+    githubLink: "https://github.com/JuddyHopps",
   },
   {
     title: "Project title 4",
@@ -146,7 +147,7 @@ project lorem ipsum generator for dummy content`,
 project lorem ipsum generator for dummy content`,
     techstack: "HTML/CSS, JavaScript",
     previewLink: "https://google.com",
-    githubLink: "https://github.com",
+    githubLink: "https://github.com/JuddyHopps",
   },
   {
     title: "Project title 5",
@@ -164,12 +165,12 @@ project lorem ipsum generator for dummy content`,
 project lorem ipsum generator for dummy content`,
     techstack: "HTML/CSS, JavaScript",
     previewLink: "https://google.com",
-    githubLink: "https://github.com",
+    githubLink: "https://github.com/JuddyHopps",
   },
 ];
 
 // Enter your Contact Details here
 export const contactDetails = {
-  email: "hi@example.com",
-  phone: "+91 12345 67890",
+  email: "fantasydev1225@gmail.com",
+  phone: "+81 18242532212",
 };
