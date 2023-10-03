@@ -114,55 +114,94 @@ export const techStackDetails = {
 // Enter your Project Details here
 export const projectDetails = [
   {
-    title: "Project title 1",
+    title: "Senior Mobile App Developer",
     image: projectImage1,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
+    description: `Responsibilities in the project:
+    Highly concentrate on testing and improving software development and
+    process skills in the development phase.
+    Technologies:
+    React-Native, Ionic, Swift, Java, Dagger 2, Databinding, MVVM, LiveData,
+    Navigation, Multi-module architecture, Single Activity approach, unittesting
+    ՄMockKՅ.
+    Project Team Size: 10`,
+    techstack: "HTML/CSS, JavaScript, PHP",
     previewLink: "https://google.com",
     githubLink: "https://github.com/JuddyHopps",
   },
   {
-    title: "Project title 2",
+    title: "Smart Contract developer",
     image: projectImage2,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
+    description: `Development smart contract on ETH, BSC, Polygon, Phantom,Atom,
+    Ethereum Lite, Tron, Harmony, Klayton(new), Avalancheand Solana
+    NFT protocols, DEFI protocols, Lending and Yield farmingprotocols.
+    Token transferring from ethereum mainnet to xdai using AMB
+    DeFi service (dex, lending/borrowing platforms) development
+    Token ICO Presales`,
+    techstack: "Solana, ETH",
     previewLink: "https://google.com",
     githubLink: "https://github.com/JuddyHopps",
   },
   {
-    title: "Project title 3",
+    title: "PlexyCube",
     image: projectImage3,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
+    description: `This project is a unique Quiz app. In other words, various QR codes are
+    attached to the cube. The app scans the qr code using the camera and
+    displays the appropriate question. A question once asked will not come
+    up again.
+    This was made according to the idea that several people use dice to
+    randomly present questions and measure the scores accordingly.
+    The app is made with react-native and the backend is made with laravel.
+    An excel file containing more than 30,000 questions is called and data is
+    displayed based on it, and only the location of the excel file is stored in
+    the data base.
+    This is the core of the backend.
+    Also, the key to the frontend is that it does a bi-directional search to
+    speed up the search.`,
     techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://google.com",
+    previewLink: "https://play.google.com/store/apps/details?id=com.wirelesspay",
     githubLink: "https://github.com/JuddyHopps",
   },
   {
-    title: "Project title 4",
+    title: "Trip Jungle",
     image: projectImage4,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
+    description: `This project is an app that helps you to tour the scenic spots of the
+    jungle. You can see the history and culture of the scenic spot using AR technology, and there is a voice assistant using alexa. This project was
+    created using android-java.
+    In addition, various shortest routes and places are searched using the go
+    ogle map function.
+    The basic problem here was AR with pokeman-like functionality.
+    In other words, it was difficult to display AR according to the
+    coordinates through gps, but I did it perfectly.`,
     techstack: "HTML/CSS, JavaScript",
     previewLink: "https://google.com",
     githubLink: "https://github.com/JuddyHopps",
   },
   {
-    title: "Project title 5",
+    title: "Pronouns",
     image: projectImage5,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
+    description: `This project is an educational app for kids.
+    All UIs are automatically created by receiving data from the backend,
+    an d by introducing a scoring system, this is a project that helps parents
+    to always know and educate their children about their knowledge level.
+    The basic problem was that, as it was for children, much was done
+    through drag.
+    It was made with react-native and includes various fields.`,
     techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://google.com",
+    previewLink: "https://play.google.com/store/apps/details?id=com.mayaal.pronoun",
     githubLink: "https://github.com",
   },
   {
-    title: "Project title 6",
+    title: "WFG Finance",
     image: projectImage6,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
+    description: `This project was for a real estate company. When renting real estate,
+    various calculations are carried out to calculate profit and loss, and
+    various changes due to market price after 1 to 10 years, to calculate
+    maintenance cost and write a report.
+    The default here was math. I knew finance well and had to apply
+    various mathematical formulas to calculate the corresponding values.
+    Made with android-java and ios-swift.
+    They worked 10 hours a day and conducted many tests to ensure high
+    quality and released them.`,
     techstack: "HTML/CSS, JavaScript",
     previewLink: "https://google.com",
     githubLink: "https://github.com/JuddyHopps",
