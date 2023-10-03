@@ -150,13 +150,8 @@ export const projectDetails = [
     up again.
     This was made according to the idea that several people use dice to
     randomly present questions and measure the scores accordingly.
-    The app is made with react-native and the backend is made with laravel.
-    An excel file containing more than 30,000 questions is called and data is
-    displayed based on it, and only the location of the excel file is stored in
-    the data base.
-    This is the core of the backend.
-    Also, the key to the frontend is that it does a bi-directional search to
-    speed up the search.`,
+    
+    `,
     techstack: "HTML/CSS, JavaScript",
     previewLink: "https://play.google.com/store/apps/details?id=com.wirelesspay",
     githubLink: "https://github.com/JuddyHopps",
@@ -170,8 +165,7 @@ export const projectDetails = [
     In addition, various shortest routes and places are searched using the go
     ogle map function.
     The basic problem here was AR with pokeman-like functionality.
-    In other words, it was difficult to display AR according to the
-    coordinates through gps, but I did it perfectly.`,
+    `,
     techstack: "HTML/CSS, JavaScript",
     previewLink: "https://google.com",
     githubLink: "https://github.com/JuddyHopps",
@@ -199,9 +193,8 @@ export const projectDetails = [
     maintenance cost and write a report.
     The default here was math. I knew finance well and had to apply
     various mathematical formulas to calculate the corresponding values.
-    Made with android-java and ios-swift.
-    They worked 10 hours a day and conducted many tests to ensure high
-    quality and released them.`,
+   
+    `,
     techstack: "HTML/CSS, JavaScript",
     previewLink: "https://google.com",
     githubLink: "https://github.com/JuddyHopps",
